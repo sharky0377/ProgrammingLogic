@@ -83,7 +83,7 @@ class Program
 
 
             // Part 4: Using a switch Statement
-            Console.WriteLine("--- Part 4: Using a switch Statement ---");
+        Console.WriteLine("--- Part 4: Using a switch Statement ---");
 
             Console.Write("Enter a day of the week (1-7): ");
             string dayInput = Console.ReadLine();
@@ -121,8 +121,6 @@ class Program
         }
 
     }
-
-}
 
 
        
