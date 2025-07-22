@@ -78,8 +78,10 @@ class Program
         else
         {
             Console.WriteLine("Invalid age entered. Please enter a whole number.");
+        }
 
             Console.WriteLine(); // Blank line for readability
+            
 
 
             // Part 4: Using a switch Statement
